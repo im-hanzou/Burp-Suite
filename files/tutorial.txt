@@ -1,0 +1,9 @@
+#share
+Burp Suite Professional v2022.8.2 [CRACK]
+Cara install bisa dilihat disini :
+https://github.com/SNGWN/Burp-Suite
+Tambahan untuk pengguna linuks yang mau tambahin shortcut di menu nya :
+1. Buat file /usr/share/applications/burp.desktop
+2. Copy configurasi yang ada disini https://pastebin.com/HCPNE477
+3. Sesuain lokasi folder Burp Suite nte ( contoh ada di gambar )
+4. Download icon di https://ibb.co/q0WtQsX trus taro di folder Burp Suite nte
